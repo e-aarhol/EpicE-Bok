@@ -102,9 +102,12 @@ nav {
     border-radius: 5px;
 }
 .grid-container{
-    margin-top: 60px;
     color: #e2e2e2;
     border-radius: 5px;
+}
+
+.strek{
+    background-color: white;
 }
 
 .dropbtn{
